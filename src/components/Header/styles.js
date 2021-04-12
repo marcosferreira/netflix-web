@@ -6,6 +6,9 @@ export const Container = styled.div`
   padding: 28px 55px;
   background: linear-gradient(to top, transparent, #000000);
 
+  display: flex;
+  justify-content: space-between;
+
   position: absolute;
   z-index: 1;
 `;
@@ -24,4 +27,10 @@ export const NetflixLogo = styled.span`
   span {
     visibility: hidden;
   }
+`;
+
+export const ButtonGroup = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 20px;
 `;

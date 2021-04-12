@@ -1,6 +1,7 @@
 import React from 'react';
+import { ButtonPrimary, ButtonSecondary } from '../../styles/GlobalStyles';
 
-import { Container, NetflixLogo } from './styles';
+import { Container, NetflixLogo, ButtonGroup } from './styles';
 
 export const Logo = () => {
   return (
@@ -22,6 +23,10 @@ function Header() {
   return (
     <Container>
       <Logo />
+      <ButtonGroup>
+        <ButtonSecondary>Português</ButtonSecondary>
+        <ButtonPrimary>Entrar</ButtonPrimary>
+      </ButtonGroup>
     </Container>
   );
 }

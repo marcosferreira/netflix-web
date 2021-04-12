@@ -13,13 +13,7 @@ function Home() {
       <img src={WallPaperNetflix} alt="wallpaper-netflix" />
       <Header />
       <Sections>
-        <ul>
-          <li>asd</li>
-          <li>asd</li>
-          <li>asd</li>
-          <li>asd</li>
-          <li>asd</li>
-        </ul>
+
       </Sections>
     </Container>
   );
