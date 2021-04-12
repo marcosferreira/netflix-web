@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/netflix-clone/static/js/main.30e89c08.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.30e89c08.chunk.js.map",
-    "runtime-main.js": "/netflix-clone/static/js/runtime-main.c9b48005.js",
-    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.c9b48005.js.map",
-    "static/js/2.e9247412.chunk.js": "/netflix-clone/static/js/2.e9247412.chunk.js",
-    "static/js/2.e9247412.chunk.js.map": "/netflix-clone/static/js/2.e9247412.chunk.js.map",
-    "static/js/3.3cd8009e.chunk.js": "/netflix-clone/static/js/3.3cd8009e.chunk.js",
-    "static/js/3.3cd8009e.chunk.js.map": "/netflix-clone/static/js/3.3cd8009e.chunk.js.map",
-    "index.html": "/netflix-clone/index.html",
-    "static/js/2.e9247412.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.e9247412.chunk.js.LICENSE.txt",
-    "static/media/Roboto-Regular.a8d6ac03.ttf": "/netflix-clone/static/media/Roboto-Regular.a8d6ac03.ttf",
-    "static/media/wallpaper-netflix.463631e5.jpg": "/netflix-clone/static/media/wallpaper-netflix.463631e5.jpg"
+    "main.js": "/netflix-web/static/js/main.30e89c08.chunk.js",
+    "main.js.map": "/netflix-web/static/js/main.30e89c08.chunk.js.map",
+    "runtime-main.js": "/netflix-web/static/js/runtime-main.2fb23bee.js",
+    "runtime-main.js.map": "/netflix-web/static/js/runtime-main.2fb23bee.js.map",
+    "static/js/2.58dba3c3.chunk.js": "/netflix-web/static/js/2.58dba3c3.chunk.js",
+    "static/js/2.58dba3c3.chunk.js.map": "/netflix-web/static/js/2.58dba3c3.chunk.js.map",
+    "static/js/3.3cd8009e.chunk.js": "/netflix-web/static/js/3.3cd8009e.chunk.js",
+    "static/js/3.3cd8009e.chunk.js.map": "/netflix-web/static/js/3.3cd8009e.chunk.js.map",
+    "index.html": "/netflix-web/index.html",
+    "static/js/2.58dba3c3.chunk.js.LICENSE.txt": "/netflix-web/static/js/2.58dba3c3.chunk.js.LICENSE.txt",
+    "static/media/Roboto-Regular.a8d6ac03.ttf": "/netflix-web/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/wallpaper-netflix.463631e5.jpg": "/netflix-web/static/media/wallpaper-netflix.463631e5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9b48005.js",
-    "static/js/2.e9247412.chunk.js",
+    "static/js/runtime-main.2fb23bee.js",
+    "static/js/2.58dba3c3.chunk.js",
     "static/js/main.30e89c08.chunk.js"
   ]
 }
