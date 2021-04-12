@@ -13,4 +13,8 @@ export const Container = styled.div`
     position: absolute;
     object-fit: cover;
   }
+
+  section {
+    position: relative;
+  }
 `;
