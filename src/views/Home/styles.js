@@ -15,6 +15,5 @@ export const Container = styled.div`
   }
 
   section {
-    position: relative;
   }
 `;

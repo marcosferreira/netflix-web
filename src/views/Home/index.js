@@ -12,8 +12,11 @@ function Home() {
     <Container>
       <img src={WallPaperNetflix} alt="wallpaper-netflix" />
       <Header />
-      <Sections>
+      <Sections flexDirection="column">
+        <h1>Filmes, séries e muito mais. Sem limites.</h1>
+        <h3>Assista onde quiser. Cancele quando quiser.</h3>
 
+        <p>Pronto para assistir? Informe seu email para criar ou reiniciar sua assinatura.</p>
       </Sections>
     </Container>
   );
