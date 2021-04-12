@@ -1,9 +1,18 @@
 import React from 'react';
 
-// import { Container } from './styles';
+import Header from '../../components/Header';
+
+import { Container } from './styles';
+
+import WallPaperNetflix from '../../assets/img/wallpaper-netflix.jpg';
 
 function Home() {
-  return <div />;
+  return (
+    <Container>
+      <img src={WallPaperNetflix} alt="wallpaper-netflix" />
+      <Header />
+    </Container>
+  );
 }
 
 export default Home;
