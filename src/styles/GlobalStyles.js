@@ -23,6 +23,12 @@ export const ButtonPrimary = styled.button`
   padding: 7px 17px;
   font-weight: 400;
   font-size: 1rem;
+
+  @media (max-width: 425px) {
+    max-width: 80px;
+    font-size: 0.8rem;
+    padding: 7px;
+  }
 `;
 
 export const ButtonSecondary = styled.button`
@@ -33,4 +39,10 @@ export const ButtonSecondary = styled.button`
   padding: 7px 17px;
   font-weight: 400;
   font-size: 1rem;
+
+  @media (max-width: 425px) {
+    max-width: 80px;
+    font-size: 0.8rem;
+    padding: 7px;
+  }
 `;

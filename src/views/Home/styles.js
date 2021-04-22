@@ -15,5 +15,6 @@ export const Container = styled.div`
   }
 
   section {
+    width: 100%;
   }
 `;
